@@ -3,8 +3,8 @@
 I'm Dnyaneshwar, an Android Developer😎📱
 
 #### 👨‍💻 Repositories I created recently
-- [patildnyaneshwar/SplashScreen-API](https://github.com/patildnyaneshwar/SplashScreen)
-- [patildnyaneshwar/Photography-App](https://github.com/patildnyaneshwar/StudyProject/tree/load-photos)
+- [patildnyaneshwar/SplashScreen-API](https://github.com/patildnyaneshwar/SplashScreen) : Guide for Splash Screen API introduced in Android 12
+- [patildnyaneshwar/Photography-App](https://github.com/patildnyaneshwar/StudyProject/tree/load-photos) : This repo covers Android Development Concepts for Beginners
 
 ### 📄 Latest posts
 - [CI/CD using Fastlane and Firebase App Distribution](https://gist.github.com/patildnyaneshwar/12ba882d7613cf2fb1b66e3ccb5f246f)
