@@ -10,7 +10,7 @@ I'm Dnyaneshwar, an Android Developer😎📱
 ## 📄 Latest posts
 - [CI/CD using Fastlane and Firebase App Distribution](https://gist.github.com/patildnyaneshwar/12ba882d7613cf2fb1b66e3ccb5f246f)
 
-## 📈 Gihub Stats
+## 📈 Github Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=patildnyaneshwar&show_icons=true&theme=chartreuse-dark)     
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=patildnyaneshwar&layout=compact&show_icons=true&theme=chartreuse-dark)
