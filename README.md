@@ -3,6 +3,7 @@
 I'm Dnyaneshwar, an Android Developer😎📱
 
 ## 👨‍💻 Repositories I created recently
+- [Android App Links](https://github.com/patildnyaneshwar/AppLinking) : Handling Android App Links using server/github pages
 - [patildnyaneshwar/Runtime-System-Permissions](https://github.com/patildnyaneshwar/RuntimePermissions) : Implement RuntimePermissions calls easy & simple way
 - [patildnyaneshwar/SplashScreen-API](https://github.com/patildnyaneshwar/SplashScreen) : Guide for Splash Screen API introduced in Android 12
 - [patildnyaneshwar/Photography-App](https://github.com/patildnyaneshwar/StudyProject/tree/load-photos) : This repo covers Android Development Concepts for Beginners
